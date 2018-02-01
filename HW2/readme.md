@@ -30,5 +30,8 @@ Alex Murray
 
 5. There was no issues in HW 1.
 
+## Link to UMT
 [Link to My UMT](http://my.umt.edu/students)
-![Image of my editor](HW-2_Screeshot.jpg)
+
+## Image of my editor
+![Image of my editor](HW2_pic.jpg)
