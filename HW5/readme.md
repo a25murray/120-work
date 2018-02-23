@@ -1,6 +1,6 @@
 Alex Murray
 
-[Link to my animation'](https://a25murray.github.io/120-work/HW4/)
+[Link to my animation](https://a25murray.github.io/120-work/HW5/)
 
 # Week 5- Creative Coding
 
@@ -17,7 +17,7 @@ Alex Murray
 
 I took many steps while creating this assignment. First I downloaded the example from the website and look at the contents that were in that folder.
 
-Secondly, I renamed the folder to HW5 and got to work creating functions to set up a canvas to display the background my drawing was going to be displayed on. I then set my desired framerate to 20. After everything was set up, I started to create a triangle that would be redrawn in the screen over and over again based on the framerate. Lastly I created a growing circle that would follow my mouse's location on the canvas. Lastly, I committed my repo to Github.com and used the index.html to create a [viewable](https://a25murray.github.io/120-work/HW4/) webpage that runs my program.
+Secondly, I renamed the folder to HW5 and got to work creating functions to set up a canvas to display the background my drawing was going to be displayed on. I then set my desired framerate to 20. After everything was set up, I started to create a triangle that would be redrawn in the screen over and over again based on the framerate. Lastly I created a growing circle that would follow my mouse's location on the canvas. Lastly, I committed my repo to Github.com and used the index.html to create a [viewable](https://a25murray.github.io/120-work/HW5/) webpage that runs my program.
 
 ## Issues
 
