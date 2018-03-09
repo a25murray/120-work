@@ -1,6 +1,6 @@
 Alex Murray, Your Section Number
 
-[Live Sketch Link](Your Live Link)
+[Live Sketch Link](https://a25murray.github.io/120-work/HW7/)
 
 
 # HW 7 | Describe then Alter the Bouncing Ball
