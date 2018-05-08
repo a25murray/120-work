@@ -47,7 +47,7 @@ function draw(){
 
   textSize(40)
   fill(255)
-  text("Keep tappping the Left Arrow to send a shooting star ",5,50)
+  text("Keep tappping the Left Arrow to send a shooting star (only works on Microsoft Edge) ",5,50)
   text("Click the left mouse button to add a star",5, 100)
   for (var i = stars.length -1; i>=0; i--){
     stars[i].update();
